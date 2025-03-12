@@ -22,7 +22,7 @@ Proyek ini bertujuan untuk menganalisis hubungan antara tingkat vaksinasi COVID-
 ## 🚀 Cara Menjalankan
 1. Clone repositori ini:
    ```sh
-   git clone https://github.com/Izmahikmah/covid-vaccination-vs-deaath-ratio.git
+   git clone https://github.com/Izmahikmah/covid-vaccination-vs-death-ratio.git
 2. Instal dependencies:
    pip install pandas matplotlib seaborn
 3. Jalankan Script analisis:
