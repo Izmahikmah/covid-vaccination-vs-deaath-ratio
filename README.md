@@ -26,8 +26,10 @@ Proyek ini bertujuan untuk menganalisis hubungan antara tingkat vaksinasi COVID-
     git clone https://github.com/Izmahikmah/covid-vaccination-vs-death-ratio.git
     cd covid-vaccination-vs-death-ratio
 2. Instal library yang dibutuhkan:
+    ```sh
     pip install pandas matplotlib seaborn
 3. jalankan script analisis
+   ```sh
    python analysis.py
    
    ## 📢 Kesimpulan
