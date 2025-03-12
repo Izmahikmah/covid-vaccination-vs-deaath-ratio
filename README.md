@@ -32,6 +32,6 @@ Proyek ini bertujuan untuk menganalisis hubungan antara tingkat vaksinasi COVID-
    ```sh
    python analysis.py
    
-   ## 📢 Kesimpulan
+## 📢 Kesimpulan
 - Tingkat vaksinasi yang lebih tinggi cenderung berhubungan dengan angka kematian yang lebih rendah.
 - Masih perlu mempertimbangkan faktor lain seperti kebijakan kesehatan dan varian virus.
