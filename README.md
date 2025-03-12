@@ -17,6 +17,9 @@ Proyek ini bertujuan untuk menganalisis hubungan antara tingkat vaksinasi COVID-
 2. **Korelasi Vaksinasi & Kematian** → Melihat bagaimana tingkat vaksinasi mempengaruhi angka kematian.  
 3. **Visualisasi Data** → Menggunakan grafik untuk memahami tren COVID-19 di berbagai negara.  
 
+## 📊 Hasil Visualisasi
+![Visualisasi Data](grafik.png)
+
 ## 🚀 Cara Menjalankan
 1. Clone repositori ini:
    ```sh
