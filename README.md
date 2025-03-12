@@ -22,13 +22,14 @@ Proyek ini bertujuan untuk menganalisis hubungan antara tingkat vaksinasi COVID-
 
 ## 🚀 Cara Menjalankan
 1. Clone repositori ini:
-   ```sh
-   git clone https://github.com/Izmahikmah/covid-vaccination-vs-death-ratio.git
-2. Instal dependencies:
-   pip install pandas matplotlib seaborn
-3. Jalankan Script analisis:
-   python analysis.py
+   **```sh
+  git clone https://github.com/Izmahikmah/covid-vaccination-vs-death-ratio.git
+   cd covid-vaccination-vs-death-ratio**
+2. Instal Library yang dibutuhkan:
+   **pip install pandas matplotlib seaborn**
+3. Jalankan script analisis:
+   **python analysis.py**
 
  ## 📢 Kesimpulan
-1. Tingkat vaksinasi yang lebih tinggi cenderung berhubungan dengan angka kematian yang lebih rendah.
-2. Masih perlu mempertimbangkan faktor lain seperti kebijakan kesehatan dan varian virus.
+- Tingkat vaksinasi yang lebih tinggi cenderung berhubungan dengan angka kematian yang lebih rendah.
+- Masih perlu mempertimbangkan faktor lain seperti kebijakan kesehatan dan varian virus.
