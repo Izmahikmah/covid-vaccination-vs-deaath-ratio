@@ -2,10 +2,11 @@
 📊 **Analisis hubungan antara tingkat vaksinasi dan angka kematian akibat COVID-19 menggunakan Python dan Pandas.** 
 
 ## 📌 Tentang Proyek
-Dalam proyek ini, saya menganalisis data vaksinasi dan kematian akibat COVID-19 dari sumber data resmi untuk melihat apakah tingkat vaksinasi memiliki korelasi terhadap tingkat kematian.
+Proyek ini bertujuan untuk menganalisis hubungan antara tingkat vaksinasi COVID-19 dan angka kematian akibat virus ini. Analisis dilakukan menggunakan data dari berbagai negara yang terdampak pandemi. Dengan teknik analisis data, proyek ini berupaya mengidentifikasi pola dan _insight_ penting yang dapat menjadi bahan pertimbangan dalam perumusan kebijakan penanggulangan COVID-19.
 
-## 📂 Dataset
-- Data vaksinasi dan kematian diperoleh dari [Sumber Dataset]().
+## 📂 Data Source  
+- Dataset yang digunakan dalam analisis ini diperoleh dari [Kaggle](https://www.kaggle.com/datasets/tohidkhanbagani/covid-19-deaths-and-vaccinations-dataset?select=COVID_VACCINATIONS.csv).  
+- Data ini telah melalui tahap preprocessing untuk menghilangkan missing values dan menggabungkan beberapa kolom agar sesuai dengan kebutuhan analisis.  
 - File utama: `Covid_Vaccination_vs_death_numbers.csv`
 
 ## 🔧 Teknologi yang Digunakan
