@@ -21,7 +21,8 @@ Proyek ini bertujuan untuk menganalisis hubungan antara tingkat vaksinasi COVID-
 ![Visualisasi Data](grafik.png)
 
 ## 🚀 Cara Menjalankan
-1. Clone repositori ini:  ```sh
+1. Clone repositori ini:  
+    ```sh
     git clone https://github.com/Izmahikmah/covid-vaccination-vs-death-ratio.git
     cd covid-vaccination-vs-death-ratio
 2. Instal library yang dibutuhkan: 
